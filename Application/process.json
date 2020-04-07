@@ -1,0 +1,7 @@
+{
+    "watch": true,
+    "ignore_watch" : ["node_modules", ".jpg", ".JPG", ".jpeg", ".jpeg", ".png", ".PNG", "Uploads", "Public"],
+    "watch_options": {
+      "followSymlinks": false
+    }
+  }
