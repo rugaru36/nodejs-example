@@ -4,8 +4,8 @@ const smsc = require('../smsc_api.js');
 // const fcm       = new FCM(serverKey);
 
 smsc.configure({
-  login: 'shopapp-5dj48@ageone.ru',
-  password: '8veDD8MeZ48xh8aG',
+  login: '####',
+  password: '####',
 });
 
 smsc.test(function (err) {
